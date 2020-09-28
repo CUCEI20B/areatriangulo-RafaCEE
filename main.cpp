@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 
 using namespace std;
 
@@ -15,7 +14,6 @@ int main() {
 
     cout << "El area del triangulo es "<<area;
 
-    getch();
 
     return 0;
 }
